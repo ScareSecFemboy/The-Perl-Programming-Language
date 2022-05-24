@@ -22,3 +22,8 @@ To start off with perl is a general purpose, high level, object orriented progra
 # What we will learn to do in this blog
 
 In this repo I will be talking about general development with perl, mostly revolving around the command line / command line based applications. We will first start out by learning the basics of the language, features, variables, arrays, for, while, keys, subrotines, arguments, and more then move onto developing things like network utilities, http servers, system automation, and even simple shells / command line utilities. 
+
+
+# 0x0001 -> learning your way around the language
+
+Perl is a really all around language, it may look scary at first but I can promis you if you give the language about 3 weeks then you wiill get a pretty good hang of the language as it did myself. Getting into the language was hard yes I will admit that it often made me uncomfortable, however given my position I could not really leave it and practically depended on the language to support alot of my own personal servers and databases even my own network based applications
